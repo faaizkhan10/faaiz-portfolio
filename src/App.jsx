@@ -85,7 +85,7 @@ export default function App() {
         <h2>Education</h2>
         <ul>
           <li><strong>B.Tech, CSE</strong> – University School of Information and Technology, Delhi (2023–2026), CGPA: 8.54</li>
-          <li><strong>B.Sc, CS & ath</strong> – Jamia Millia Islamia (2020–2023), CGPA: 8.81</li>
+          <li><strong>B.Sc, CS & Maths</strong> – Jamia Millia Islamia (2020–2023), CGPA: 8.81</li>
         </ul>
       </section>
 
